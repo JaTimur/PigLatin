@@ -1,4 +1,4 @@
-//lowell hymn version starts on line 47
+//lowell hymn version starts on line 48
 public void setup() 
 {
   String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};
